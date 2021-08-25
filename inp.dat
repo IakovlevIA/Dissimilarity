@@ -1,0 +1,6 @@
+n_spins 		16
+n_measurements 		8192
+dissimilarity_steps 	10
+starting_step 		1
+lambda_0 		2
+filename 		config.dat
